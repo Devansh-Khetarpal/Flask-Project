@@ -4,6 +4,7 @@
     {
       "src": "app/app.py",
       "use": "@vercel/python"
+      "config": {"runtime":"python 3.8.10"}
     }
   ],
   "routes": [
